@@ -1,0 +1,1 @@
+// Funcionalidades do projeto serão desenvolvidas posteriormente.
