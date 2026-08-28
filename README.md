@@ -30,13 +30,13 @@ O site será adaptado para diferentes tamanhos de tela, como computadores, table
 
 ## 👥 Integrantes e responsabilidades
 
-- Felipe — estilização do projeto, imagens e paleta de cores
+- Felipe de Almeida Dias — estilização do projeto, imagens e paleta de cores
 - Gabrielle Sousa — questionário, GitHub e documentação
-- Julia — preenchimento do relatório de entrega e organização das evidências do projeto
+- Julia Otomo Duarte — preenchimento do relatório de entrega e organização das evidências do projeto
 - João Rafael Vitorino de Bortoli — definição do escopo e protótipo/rascunho do layout
 - Mateus Tebaldi — definição do escopo e protótipo/rascunho do layout
-- Miguel — contato com a empresa e organização das comprovações
-- Misael — estrutura inicial e organização das pastas e arquivos
+- Miguel Carvalho De Oliveira Pinto — contato com a empresa e organização das comprovações
+- Misael Elias de Sousa — estrutura inicial e organização das pastas e arquivos
 
 ## 🚧 Status do projeto
 
