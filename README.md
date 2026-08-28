@@ -1,6 +1,6 @@
 # Amigos Pet Rações 🐾
 
-Projeto desenvolvido para o módulo de Desenvolvimento Web Responsivo do curso de Análise e Desenvolvimento de Sistemas.
+Projeto desenvolvido para o módulo de Desenvolvimento Web Responsivo dos cursos de Análise e Desenvolvimento de Sistemas e Ciências da Computação.
 
 ## 📌 Sobre o projeto
 
@@ -18,7 +18,7 @@ O site será adaptado para diferentes tamanhos de tela, como computadores, table
 
 - `index.html`: estrutura principal da página
 - `css/`: arquivos de estilização
-- `img/`: imagens utilizadas no site
+- `imagem/`: imagens utilizadas no site
 - `js/`: arquivos JavaScript
 
 ## ▶️ Como executar o projeto
@@ -30,11 +30,13 @@ O site será adaptado para diferentes tamanhos de tela, como computadores, table
 
 ## 👥 Integrantes e responsabilidades
 
-- Gabrielle Sousa — GitHub e documentação
-- Julia — relatório
+- Felipe — estilização do projeto, imagens e paleta de cores
+- Gabrielle Sousa — questionário, GitHub e documentação
+- Julia — preenchimento do relatório de entrega e organização das evidências do projeto
+- João Rafael Vitorino de Bortoli — definição do escopo e protótipo/rascunho do layout
+- Mateus Tebaldi — definição do escopo e protótipo/rascunho do layout
 - Miguel — contato com a empresa e organização das comprovações
 - Misael — estrutura inicial e organização das pastas e arquivos
-- Felipe — imagens e paleta de cores
 
 ## 🚧 Status do projeto
 
