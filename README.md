@@ -18,7 +18,7 @@ O site será adaptado para diferentes tamanhos de tela, como computadores, table
 
 - `index.html`: estrutura principal da página
 - `css/`: arquivos de estilização
-- `imag/`: imagens utilizadas no site
+- `imagem/`: imagens utilizadas no site
 - `js/`: arquivos JavaScript
 
 ## ▶️ Como executar o projeto
