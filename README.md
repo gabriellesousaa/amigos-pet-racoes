@@ -18,7 +18,7 @@ O site será adaptado para diferentes tamanhos de tela, como computadores, table
 
 - `index.html`: estrutura principal da página
 - `css/`: arquivos de estilização
-- `imagem/`: imagens utilizadas no site
+- `imag/`: imagens utilizadas no site
 - `js/`: arquivos JavaScript
 
 ## ▶️ Como executar o projeto
@@ -37,6 +37,9 @@ O site será adaptado para diferentes tamanhos de tela, como computadores, table
 - Mateus Tebaldi — definição do escopo e protótipo/rascunho do layout
 - Miguel Carvalho De Oliveira Pinto — contato com a empresa e organização das comprovações
 - Misael Elias de Sousa — estrutura inicial e organização das pastas e arquivos
+- Renan Floriano Ferrari — responsável pela coleta de imagens da loja e pela criação das variáveis iniciais da paleta de cores no arquivo CSS.
+- Willian Martins Pereira — responsável pela criação do protótipo do projeto no Figma.
+
 
 ## 🚧 Status do projeto
 
